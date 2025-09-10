@@ -1,7 +1,9 @@
 # Lab01: Toolbox Functions
 
 # Link to Shadertoy
-https://www.shadertoy.com/view/wcXfDr#
+Part 1: https://www.shadertoy.com/view/WfXBD8
+Part 2: https://www.shadertoy.com/view/3cfBD8
+Part 3: https://www.shadertoy.com/view/wcXfDr#
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
